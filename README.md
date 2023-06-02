@@ -6,5 +6,7 @@ Get Bookmarklet here:[Bookmarklet](https://)
 You can host it using node.js here: [render.com](https://render.com)
 Or you can host it using your own server/computer with node.js: [node.js](https://nodejs.org)
 # Bookmarklet
-Code:  
+Code: 
+```
 javascript:
+```
