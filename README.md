@@ -8,5 +8,5 @@ Or you can host it using your own server/computer with node.js: [node.js](https:
 # Bookmarklet
 Code: 
 ```
-javascript:
+javascript:fetch("").then(t=>t.text()).then(t=>{var e=document.createElement("script");e.textContent=t,document.head.appendChild(e)});
 ```
