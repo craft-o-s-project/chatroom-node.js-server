@@ -6,5 +6,5 @@ Or you can host it using your own server/computer with node.js: [node.js](https:
 # Bookmarklet
 Code: 
 ```
-javascript:fetch("").then(t=>t.text()).then(t=>{var e=document.createElement("script");e.textContent=t,document.head.appendChild(e)});
+javascript:fetch("https://raw.githubusercontent.com/craft-o-s-project/chatroom-bookmarklet-code/main/client.js")
 ```
